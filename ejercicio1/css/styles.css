@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.imagen {
+  width: 250px;
+}
+.medalla{
+  width:100px;
+  position: absolute;
+  left: 150px;
+}
+
+
+
+
